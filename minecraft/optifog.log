@@ -1,0 +1,124 @@
+
+OptiFine_1.2.5_HD_C6
+Mon Sep 17 20:31:50 BRT 2018
+OS: Linux (amd64) version 4.15.0-34-generic
+Java: 1.8.0_181, Oracle Corporation
+VM: OpenJDK 64-Bit Server VM (mixed mode), Oracle Corporation
+LWJGL: 2.9.0
+OpenGL: Mesa DRI Intel(R) Ivybridge Mobile  version 3.0 Mesa 18.0.5, Intel Open Source Technology Center
+OpenGL Version: 3.0
+OpenGL Fancy fog: Not available (GL_NV_fog_distance)
+Loading /font/default.properties
+Loading /font/alternate.properties
+TextureFX registered: ModTextureStatic /terrain.png @ 144, texId: 255, index: 144
+TextureFX registered: ModTextureStatic /terrain.png @ 145, texId: 255, index: 145
+TextureFX registered: ModTextureStatic /terrain.png @ 146, texId: 255, index: 146
+TextureFX registered: ModTextureStatic /terrain.png @ 147, texId: 255, index: 147
+TextureFX registered: ModTextureStatic /terrain.png @ 148, texId: 255, index: 148
+TextureFX registered: ModTextureStatic /terrain.png @ 149, texId: 255, index: 149
+TextureFX registered: ModTextureStatic /terrain.png @ 150, texId: 255, index: 150
+TextureFX registered: ModTextureStatic /terrain.png @ 151, texId: 255, index: 151
+TextureFX registered: ModTextureStatic /terrain.png @ 152, texId: 255, index: 152
+TextureFX registered: ModTextureStatic /terrain.png @ 153, texId: 255, index: 153
+TextureFX registered: ModTextureStatic /terrain.png @ 154, texId: 255, index: 154
+TextureFX registered: ModTextureStatic /terrain.png @ 155, texId: 255, index: 155
+TextureFX registered: ModTextureStatic /terrain.png @ 156, texId: 255, index: 156
+TextureFX registered: ModTextureStatic /terrain.png @ 157, texId: 255, index: 157
+TextureFX registered: ModTextureStatic /terrain.png @ 158, texId: 255, index: 158
+TextureFX registered: ModTextureStatic /terrain.png @ 159, texId: 255, index: 159
+TextureFX registered: ModTextureStatic /terrain.png @ 160, texId: 255, index: 160
+TextureFX registered: ModTextureStatic /terrain.png @ 161, texId: 255, index: 161
+TextureFX registered: buildcraft.energy.TextureOilFX@3108dbc8, texId: 255, index: 205
+TextureFX registered: buildcraft.energy.TextureFuelFX@23f67057, texId: 256, index: 48
+TextureFX registered: buildcraft.energy.TextureOilFlowFX@54d7297a, texId: 255, index: 206
+TextureFX registered: ModTextureStatic /terrain.png @ 162, texId: 255, index: 162
+TextureFX registered: ModTextureStatic /terrain.png @ 163, texId: 255, index: 163
+TextureFX registered: ModTextureStatic /terrain.png @ 164, texId: 255, index: 164
+TextureFX registered: ModTextureStatic /terrain.png @ 165, texId: 255, index: 165
+TextureFX registered: ModTextureStatic /terrain.png @ 166, texId: 255, index: 166
+TextureFX registered: ModTextureStatic /terrain.png @ 167, texId: 255, index: 167
+TextureFX registered: ModTextureStatic /terrain.png @ 168, texId: 255, index: 168
+TextureFX registered: forestry.core.TextureBiomassFX@552868b4, texId: 195, index: 13
+TextureFX registered: forestry.core.TextureBiofuelFX@566d9cf4, texId: 195, index: 12
+TextureFX registered: forestry.factory.TextureMilkFX@752f3438, texId: 195, index: 15
+TextureFX registered: forestry.core.TextureHoneyFX@b291449, texId: 195, index: 76
+TextureFX registered: forestry.factory.TextureSeedOilFX@1dd2a050, texId: 195, index: 74
+TextureFX registered: forestry.core.TextureJuiceFX@27621522, texId: 195, index: 75
+TextureFX registered: forestry.core.TextureMeadFX@2be06b02, texId: 195, index: 77
+TextureFX registered: forestry.core.TextureGlassFX@68a8b96b, texId: 195, index: 49
+TextureFX registered: forestry.core.TextureHabitatLocatorFX@30e0bcb6, texId: 195, index: 105
+TextureFX registered: railcraft.render.TextureCreosoteOilFX@4f5296e8, texId: 202, index: 0
+TextureFX registered: ModTextureStatic /terrain.png @ 169, texId: 255, index: 169
+TextureFX registered: ModTextureStatic /terrain.png @ 170, texId: 255, index: 170
+TextureFX registered: ModTextureStatic /terrain.png @ 171, texId: 255, index: 171
+TextureFX registered: ModTextureStatic /terrain.png @ 172, texId: 255, index: 172
+TextureFX registered: ModTextureStatic /terrain.png @ 173, texId: 255, index: 173
+TextureFX registered: ModTextureStatic /terrain.png @ 174, texId: 255, index: 174
+TextureFX registered: ModTextureStatic /terrain.png @ 175, texId: 255, index: 175
+TextureFX registered: ModTextureStatic /terrain.png @ 176, texId: 255, index: 176
+TextureFX registered: ModTextureStatic /terrain.png @ 177, texId: 255, index: 177
+TextureFX registered: ModTextureStatic /terrain.png @ 178, texId: 255, index: 178
+TextureFX registered: ModTextureStatic /terrain.png @ 179, texId: 255, index: 179
+TextureFX registered: ModTextureStatic /terrain.png @ 180, texId: 255, index: 180
+TextureFX registered: ModTextureStatic /terrain.png @ 181, texId: 255, index: 181
+TextureFX registered: ModTextureStatic /terrain.png @ 182, texId: 255, index: 182
+TextureFX registered: ModTextureStatic /terrain.png @ 183, texId: 255, index: 183
+TextureFX registered: ModTextureStatic /terrain.png @ 184, texId: 255, index: 184
+TextureFX registered: ModTextureStatic /terrain.png @ 185, texId: 255, index: 185
+TextureFX registered: ModTextureStatic /terrain.png @ 186, texId: 255, index: 186
+TextureFX registered: ModTextureStatic /terrain.png @ 187, texId: 255, index: 187
+TextureFX registered: ModTextureStatic /terrain.png @ 188, texId: 255, index: 188
+TextureFX registered: bv@6d537c0d, texId: 257, index: 237
+TextureFX registered: qa@60b5f8d, texId: 257, index: 205
+TextureFX registered: zp@3920e2fb, texId: 257, index: 14
+TextureFX registered: tu@64dd0732, texId: 402, index: 54
+TextureFX registered: ht@691c22df, texId: 402, index: 70
+TextureFX registered: ael@48103448, texId: 257, index: 206
+TextureFX registered: gf@3f234b4d, texId: 257, index: 238
+TextureFX registered: nh@2b719de7, texId: 257, index: 31
+TextureFX registered: nh@2097bb70, texId: 257, index: 47
+TextureFX removed: bv@6d537c0d, texId: 257, index: 237
+TextureFX registered: TextureHDLavaFX@64d8c5d7, texId: 257, index: 237
+TextureFX removed: qa@60b5f8d, texId: 257, index: 205
+TextureFX registered: TextureHDWaterFX@28236221, texId: 257, index: 205
+TextureFX removed: zp@3920e2fb, texId: 257, index: 14
+TextureFX registered: TextureHDPortalFX@883a083, texId: 257, index: 14
+TextureFX removed: ael@48103448, texId: 257, index: 206
+TextureFX registered: TextureHDWaterFlowFX@57f9cd21, texId: 257, index: 206
+TextureFX removed: gf@3f234b4d, texId: 257, index: 238
+TextureFX registered: TextureHDLavaFlowFX@75ad4c74, texId: 257, index: 238
+TextureFX removed: nh@2b719de7, texId: 257, index: 31
+TextureFX registered: TextureHDFlamesFX@462c0a8a, texId: 257, index: 31
+TextureFX removed: nh@2097bb70, texId: 257, index: 47
+TextureFX registered: TextureHDFlamesFX@533e3d74, texId: 257, index: 47
+TextureFX removed: tu@64dd0732, texId: 402, index: 54
+TextureFX registered: TextureHDCompassFX@209e47df, texId: 402, index: 54
+TextureFX removed: ht@691c22df, texId: 402, index: 70
+TextureFX registered: TextureHDWatchFX@7d3a8c17, texId: 402, index: 70
+Loading custom colors: /misc/grasscolor.png
+Loading custom colors: /misc/foliagecolor.png
+TextureFX registered: Portal_TextureAnimation@6036f443, texId: 231, index: 5
+TextureFX registered: thaumcraft.FXAnimatedTexture@348ad0a2, texId: 232, index: 252
+TextureFX registered: thaumcraft.FXAnimatedTexture@322dd5dd, texId: 232, index: 253
+TextureFX registered: thaumcraft.FXAnimatedTexture@2128f02d, texId: 232, index: 254
+TextureFX registered: thaumcraft.arcana.TextureVoidCompassFX@766b8ca7, texId: 233, index: 61
+TextureFX registered: eloraam.core.TextureAnimFX@14865d08, texId: 400, index: 239
+TextureFX registered: eloraam.core.TextureAnimFX@4859e178, texId: 400, index: 255
+TextureFX registered: ModTextureStatic /terrain.png @ 168, texId: 257, index: 168
+TextureFX registered: ModTextureStatic /terrain.png @ 169, texId: 257, index: 169
+TextureFX registered: ModTextureStatic /terrain.png @ 170, texId: 257, index: 170
+TextureFX registered: ModTextureStatic /gui/items.png @ 102, texId: 402, index: 102
+TextureFX registered: ModTextureStatic /gui/items.png @ 118, texId: 402, index: 118
+TextureFX registered: ModTextureStatic /gui/items.png @ 119, texId: 402, index: 119
+TextureFX registered: ModTextureStatic /gui/items.png @ 120, texId: 402, index: 120
+TextureFX registered: ModTextureStatic /gui/items.png @ 134, texId: 402, index: 134
+TextureFX registered: ModTextureStatic /gui/items.png @ 144, texId: 402, index: 144
+TextureFX registered: ModTextureStatic /gui/items.png @ 145, texId: 402, index: 145
+TextureFX registered: ModTextureStatic /gui/items.png @ 146, texId: 402, index: 146
+TextureFX registered: ModTextureStatic /gui/items.png @ 147, texId: 402, index: 147
+TextureFX registered: ModTextureStatic /gui/items.png @ 148, texId: 402, index: 148
+TextureFX registered: ModTextureStatic /gui/items.png @ 149, texId: 402, index: 149
+TextureFX registered: ModTextureStatic /gui/items.png @ 150, texId: 402, index: 150
+TextureFX registered: ModTextureStatic /gui/items.png @ 152, texId: 402, index: 152
+TextureFX registered: ModTextureStatic /gui/items.png @ 160, texId: 402, index: 160
+TextureFX registered: ModTextureStatic /gui/items.png @ 161, texId: 402, index: 161

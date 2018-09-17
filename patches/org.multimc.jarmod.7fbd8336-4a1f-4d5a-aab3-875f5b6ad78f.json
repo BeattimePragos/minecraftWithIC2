@@ -1,0 +1,13 @@
+{
+    "formatVersion": 1,
+    "jarMods": [
+        {
+            "MMC-displayname": "minecraft",
+            "MMC-filename": "7fbd8336-4a1f-4d5a-aab3-875f5b6ad78f.jar",
+            "MMC-hint": "local",
+            "name": "org.multimc.jarmods:f864e250-c9ce-43b0-a520-3a59d53e9ae1:1"
+        }
+    ],
+    "name": "minecraft (jar mod)",
+    "uid": "org.multimc.jarmod.7fbd8336-4a1f-4d5a-aab3-875f5b6ad78f"
+}
